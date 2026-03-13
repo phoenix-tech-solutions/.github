@@ -1,6 +1,6 @@
 # Phoenix Tech Solutions
 
-Phoenix Tech Solutions is a student‑led initiative based in Alpharetta, Georgia. We are part of FCS Innovation Academy, and our core mission is to empower nonprofits and charitable organizations with practical, sustainable, and cost‑effective technology solutions that amplify their outreach and impact.
+Phoenix Tech Solutions is a student‑led initiative based in Alpharetta, Georgia. Our core mission is to empower nonprofits and charitable organizations with practical, sustainable, and cost‑effective technology solutions that amplify their outreach and impact.
 
 ## 🎯 Mission
 
